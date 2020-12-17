@@ -1,2 +1,2 @@
 # Predective-Model-for-IRIS-DataSet
-Project in Python
+Project in ML using Python 
